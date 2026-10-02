@@ -1,75 +1,82 @@
 <div align="center">
-  <h1>Olá! 👋 Eu sou o Vanderson Andrade</h1>
-  <p><strong>Desenvolvedor Web | Infraestrutura & Data Center | Full Stack</strong></p>
+  <h1>Hello! 👋 I'm Vanderson Andrade</h1>
+  <p><strong>Web Developer | Infrastructure & Data Center | Full Stack</strong></p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-andrade-22v/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VandinDev221)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanderson-andrade-22v/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VandinDev221)
+
 </div>
 
 <br/>
 
-### 👨‍💻 Sobre Mim
-- 🎓 Cursando **Superior em Tecnologia em Desenvolvimento Web** (Unopar)
-- 📜 Técnico em **Desenvolvimento de Sistemas** (IFMA)
-- 💼 Experiência profissional em **Operações de Data Center**, **Redes de Computadores** e **Desenvolvimento Web**
-- 🚀 Foco em criar aplicações modernas, responsivas e performáticas (React, TypeScript, PHP/Laravel, Node.js, MySQL, PWA)
+### 👨‍💻 About Me
+
+* 🎓 Pursuing a **Bachelor's Degree in Web Development Technology** at UNOPAR
+* 📜 Technical Degree in **Systems Development** from IFMA
+* 💼 Professional experience in **Data Center Operations**, **Computer Networks**, and **Web Development**
+* 🚀 Focused on building modern, responsive, and high-performance applications using React, TypeScript, PHP/Laravel, Node.js, MySQL, and PWA technologies
 
 ---
 
-### 🛠️ Minhas Habilidades & Tecnologias
+### 🛠️ Skills & Technologies
 
 #### 💻 Frontend & UI/UX
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite,cs" alt="Frontend" />
 </p>
 
-#### ⚙️ Backend & Banco de Dados
+#### ⚙️ Backend & Databases
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,python,mysql" alt="Backend" />
 </p>
 
-#### 🚀 Ferramentas, Deploy & Ambiente
+#### 🚀 Tools, Deployment & Environment
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux" alt="Tools & Deploy" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux" alt="Tools & Deployment" />
 </p>
 
-#### 🌐 Especialidades & Infraestrutura
-`Design Responsivo (PWA)` • `APIs REST` • `UX / UI Design` • `Operações de Data Center` • `Redes de Computadores` • `Análise de Dados` • `SEO & Acessibilidade`
+#### 🌐 Specialties & Infrastructure
+
+`Responsive Design (PWA)` • `REST APIs` • `UI/UX Design` • `Data Center Operations` • `Computer Networks` • `Data Analysis` • `SEO & Accessibility`
 
 ---
 
-### 📊 Estatísticas & Atividade no GitHub
+### 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub stats" height="175" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Top Langs" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub Statistics" height="175" />
+
+<br/><br/>
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Most Used Languages" height="175" />
 </div>
 
 <br/>
 
-<!-- Gráfico de Contribuições (Quadradinhos Verdes) -->
+<!-- Contribution Graph -->
+
 <div align="center">
-  <h3>🟩 Gráfico de Contribuições</h3>
-  <img src="https://ghchart.rshah.org/40c463/VandinDev221" alt="Gráfico de Contribuições - Vanderson" width="100%" />
+  <h3>🟩 Contribution Graph</h3>
+  <img src="https://ghchart.rshah.org/40c463/VandinDev221" alt="Vanderson's GitHub Contribution Graph" width="100%" />
 </div>
 
 <br/>
 
 ---
 
-### 💼 Experiências em Destaque
+### 💼 Featured Experience
 
-- **Operações de Data Center & Análise de Dados** — *PB Promoção de Vendas* (Abr 2024 - Presente)
-- **Desenvolvedor Web** — *Projetos Pessoais / IFMA* (Fev 2024 - Presente)
-- **Técnico de Redes & Telecomunicações** — *Creative Produtos* (Mar 2024 - Abr 2024)
+* **Data Center Operations & Data Analysis** — *PB Promoção de Vendas* (Apr 2024 - Present)
+* **Web Developer** — *Personal Projects / IFMA* (Feb 2024 - Present)
+* **Network & Telecommunications Technician** — *Creative Produtos* (Mar 2024 - Apr 2024)
 
 ---
 
 <div align="center">
-  <h3>📫 Vamos nos conectar?</h3>
+  <h3>📫 Let's Connect</h3>
   <a href="https://www.linkedin.com/in/vanderson-andrade-22v/" target="_blank">
     <img src="https://img.shields.io/badge/-Vanderson%20Andrade-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanderson-andrade-22v/" />
   </a>
