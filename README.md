@@ -3,7 +3,7 @@
   <p><strong>Web Developer | Infrastructure & Data Center | Full Stack</strong></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vanderson-andrade-22v/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VandinDev221)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vandersonandradedev)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VandinDev221&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Most Used Languages" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vandersonandradedev&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Most Used Languages" height="175" />
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
 
 <div align="center">
   <h3>🟩 Contribution Graph</h3>
-  <img src="https://ghchart.rshah.org/40c463/VandinDev221" alt="Vanderson's GitHub Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/40c463/vandersonandradedev" alt="Vanderson's GitHub Contribution Graph" width="100%" />
 </div>
 
 <br/>
