@@ -47,7 +47,7 @@
 ### 📊 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=VandinDev221&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub Statistics" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vandersonandradedev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Vanderson's GitHub Statistics" height="175" />
 
 <br/><br/>
 
