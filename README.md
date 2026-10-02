@@ -51,8 +51,11 @@
 
 <br/><br/>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vandersonandradedev&layout=compact&langs_count=6&theme=radical&border_radius=10" alt="Most Used Languages" height="175" />
-</div>
+<img
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vandersonandradedev&layout=compact&langs_count=6&theme=radical&border_radius=10"
+  alt="Most Used Languages"
+  height="175"
+/>
 
 <br/>
 
